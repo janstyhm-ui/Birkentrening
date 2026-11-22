@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="310" viewBox="0 0 620 310" fill="none">
+<defs><pattern id="contour" width="19" height="11" patternUnits="userSpaceOnUse"><path d="M0 11 19 0" stroke="#d3eb9b" opacity=".23"/></pattern></defs>
+<path d="M0 310 162 153 219 183 315 76 365 133 453 35 620 178V310Z" fill="#3b5441"/>
+<path d="m81 310 82-111 58 34 102-124 59 88 86-115 152 135v93Z" fill="url(#contour)"/>
+<g stroke="#91aa71" opacity=".55" stroke-width="1.2"><path d="m0 310 162-157 57 30 96-107 50 57 88-98 167 143"/><path d="m32 310 133-138 54 36 97-111 58 64 82-103 164 145"/><path d="m74 310 96-111 49 34 103-112 60 69 80-104 158 138"/><path d="m113 310 61-86 48 35 105-112 62 71 81-106 150 128"/><path d="m157 310 25-61 43 36 108-111 64 71 80-106 143 120"/><path d="m206 310 132-109 68 73 82-108 132 110"/><path d="m240 310 104-81 70 73 83-111 123 101"/></g>
+<path d="m122 288 83-25 51-68 52-6 69-63 40 4 55-53" stroke="#d9f392" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="3 8"/><circle cx="472" cy="77" r="5" fill="#e3ffa0"/>
+</svg>
