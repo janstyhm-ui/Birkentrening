@@ -1,0 +1,557 @@
+{
+  "start": "2026-11-23",
+  "end": "2027-01-31",
+  "sessions": [
+    {
+      "id": "w01-man-strength",
+      "date": "2026-11-23",
+      "type": "strength",
+      "title": "Styrke A – bryst og overkropp",
+      "description": "Maks 60 min. Oppvarming 5–7 min: 3 min lett roing eller sykling, rolige skulderbevegelser og 1–2 lette sett før benkpress. Bicepscurl og tricepsnedpress kan kjøres som supersett. Bruk smertefri bevegelsesbane.\n\nTilvenning: normalt 2 arbeidssett per øvelse. Prioriter teknikk, finn passende startvekter og unngå utmattelse.",
+      "week": 1,
+      "program": "A",
+      "time": "14:00–15:00"
+    },
+    {
+      "id": "w01-man-interval",
+      "date": "2026-11-23",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "30 min rolig løping før blokken.\n\n1 × 5 min 10–20–30.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.",
+      "week": 1,
+      "floorball": false,
+      "time": "Senere på dagen"
+    },
+    {
+      "id": "w01-ons-interval",
+      "date": "2026-11-25",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "30 min rolig løping før blokken.\n\n1 × 5 min 10–20–30.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.\n\nLøp de raske dragene litt raskere enn mandag.",
+      "week": 1,
+      "floorball": true
+    },
+    {
+      "id": "w01-tor-strength",
+      "date": "2026-11-26",
+      "type": "strength",
+      "title": "Styrke B – helkropp med brystfokus",
+      "description": "Maks 60 min. Oppvarming 5–7 min: lett sykling eller roing, rolige skulder- og hoftebevegelser og lette sett før brystpress og beinpress. Bruk kontrollert beinbelastning, særlig før fredagsintervaller.\n\nTilvenning: normalt 2 arbeidssett per øvelse. Prioriter teknikk, finn passende startvekter og unngå utmattelse.",
+      "week": 1,
+      "program": "B",
+      "time": "14:00–15:00"
+    },
+    {
+      "id": "w01-lor-long",
+      "date": "2026-11-28",
+      "type": "long",
+      "title": "Rolig langtur",
+      "description": "Personlig mål: 6 km. Bokas ramme: 5–15 km. Målet kan justeres ved behov.",
+      "week": 1,
+      "targetKm": 6
+    },
+    {
+      "id": "w02-man-strength",
+      "date": "2026-11-30",
+      "type": "strength",
+      "title": "Styrke A – bryst og overkropp",
+      "description": "Maks 60 min. Oppvarming 5–7 min: 3 min lett roing eller sykling, rolige skulderbevegelser og 1–2 lette sett før benkpress. Bicepscurl og tricepsnedpress kan kjøres som supersett. Bruk smertefri bevegelsesbane.\n\nTilvenning: normalt 2 arbeidssett per øvelse. Prioriter teknikk, finn passende startvekter og unngå utmattelse.",
+      "week": 2,
+      "program": "A",
+      "time": "14:00–15:00"
+    },
+    {
+      "id": "w02-man-interval",
+      "date": "2026-11-30",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "20 min rolig løping før blokkene.\n\n2 × 5 min 10–20–30. 3 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.",
+      "week": 2,
+      "floorball": false,
+      "time": "Senere på dagen"
+    },
+    {
+      "id": "w02-ons-interval",
+      "date": "2026-12-02",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "20 min rolig løping før blokkene.\n\n2 × 5 min 10–20–30. 3 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.",
+      "week": 2,
+      "floorball": true
+    },
+    {
+      "id": "w02-tor-strength",
+      "date": "2026-12-03",
+      "type": "strength",
+      "title": "Styrke B – helkropp med brystfokus",
+      "description": "Maks 60 min. Oppvarming 5–7 min: lett sykling eller roing, rolige skulder- og hoftebevegelser og lette sett før brystpress og beinpress. Bruk kontrollert beinbelastning, særlig før fredagsintervaller.\n\nTilvenning: normalt 2 arbeidssett per øvelse. Prioriter teknikk, finn passende startvekter og unngå utmattelse.",
+      "week": 2,
+      "program": "B",
+      "time": "14:00–15:00"
+    },
+    {
+      "id": "w02-lor-long",
+      "date": "2026-12-05",
+      "type": "long",
+      "title": "Rolig langtur",
+      "description": "Personlig mål: 7 km. Bokas ramme: 5–10 km. Målet kan justeres ved behov.",
+      "week": 2,
+      "targetKm": 7
+    },
+    {
+      "id": "w03-man-strength",
+      "date": "2026-12-07",
+      "type": "strength",
+      "title": "Styrke A – bryst og overkropp",
+      "description": "Maks 60 min. Oppvarming 5–7 min: 3 min lett roing eller sykling, rolige skulderbevegelser og 1–2 lette sett før benkpress. Bicepscurl og tricepsnedpress kan kjøres som supersett. Bruk smertefri bevegelsesbane.\n\nOppbygging: fullt program og normalt 2–3 repetisjoner i reserve.",
+      "week": 3,
+      "program": "A",
+      "time": "14:00–15:00"
+    },
+    {
+      "id": "w03-man-interval",
+      "date": "2026-12-07",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "Oppvarming (ca. 10 min): 0–2 min rolig jogging, 2–6 min moderat løping, 6–9 min dynamisk bevegelighet, siste minutt stigningsløp på 30–50 m med økende fart. På mølle: kontrollert gradvis fartsøkning.\nDynamisk: 5 høye kneløft og 5 hælspark per bein, 10 armsving og 5 sidelengs kryssløp til hver side.\n\n3 × 5 min 10–20–30. 3 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.",
+      "week": 3,
+      "floorball": false,
+      "time": "Senere på dagen"
+    },
+    {
+      "id": "w03-ons-interval",
+      "date": "2026-12-09",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "Oppvarming (ca. 10 min): 0–2 min rolig jogging, 2–6 min moderat løping, 6–9 min dynamisk bevegelighet, siste minutt stigningsløp på 30–50 m med økende fart. På mølle: kontrollert gradvis fartsøkning.\nDynamisk: 5 høye kneløft og 5 hælspark per bein, 10 armsving og 5 sidelengs kryssløp til hver side.\n\n3 × 5 min 10–20–30. 3 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.",
+      "week": 3,
+      "floorball": true
+    },
+    {
+      "id": "w03-tor-strength",
+      "date": "2026-12-10",
+      "type": "strength",
+      "title": "Styrke B – helkropp med brystfokus",
+      "description": "Maks 60 min. Oppvarming 5–7 min: lett sykling eller roing, rolige skulder- og hoftebevegelser og lette sett før brystpress og beinpress. Bruk kontrollert beinbelastning, særlig før fredagsintervaller.\n\nOppbygging: fullt program og normalt 2–3 repetisjoner i reserve.",
+      "week": 3,
+      "program": "B",
+      "time": "14:00–15:00"
+    },
+    {
+      "id": "w03-lor-long",
+      "date": "2026-12-12",
+      "type": "long",
+      "title": "Rolig langtur",
+      "description": "Personlig mål: 8 km. Bokas ramme: 5–10 km. Målet kan justeres ved behov.",
+      "week": 3,
+      "targetKm": 8
+    },
+    {
+      "id": "w04-man-strength",
+      "date": "2026-12-14",
+      "type": "strength",
+      "title": "Styrke A – bryst og overkropp",
+      "description": "Maks 60 min. Oppvarming 5–7 min: 3 min lett roing eller sykling, rolige skulderbevegelser og 1–2 lette sett før benkpress. Bicepscurl og tricepsnedpress kan kjøres som supersett. Bruk smertefri bevegelsesbane.\n\nOppbygging: fullt program og normalt 2–3 repetisjoner i reserve.",
+      "week": 4,
+      "program": "A",
+      "time": "14:00–15:00"
+    },
+    {
+      "id": "w04-man-interval",
+      "date": "2026-12-14",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "Oppvarming (ca. 10 min): 0–2 min rolig jogging, 2–6 min moderat løping, 6–9 min dynamisk bevegelighet, siste minutt stigningsløp på 30–50 m med økende fart. På mølle: kontrollert gradvis fartsøkning.\nDynamisk: 5 høye kneløft og 5 hælspark per bein, 10 armsving og 5 sidelengs kryssløp til hver side.\n\n3 × 5 min 10–20–30. 3 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.\n\nØk farten gradvis på de raske dragene.",
+      "week": 4,
+      "floorball": false,
+      "time": "Senere på dagen"
+    },
+    {
+      "id": "w04-ons-interval",
+      "date": "2026-12-16",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "Oppvarming (ca. 10 min): 0–2 min rolig jogging, 2–6 min moderat løping, 6–9 min dynamisk bevegelighet, siste minutt stigningsløp på 30–50 m med økende fart. På mølle: kontrollert gradvis fartsøkning.\nDynamisk: 5 høye kneløft og 5 hælspark per bein, 10 armsving og 5 sidelengs kryssløp til hver side.\n\n3 × 5 min 10–20–30. 3 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.\n\nØk farten gradvis på de raske dragene.",
+      "week": 4,
+      "floorball": true
+    },
+    {
+      "id": "w04-tor-strength",
+      "date": "2026-12-17",
+      "type": "strength",
+      "title": "Styrke B – helkropp med brystfokus",
+      "description": "Maks 60 min. Oppvarming 5–7 min: lett sykling eller roing, rolige skulder- og hoftebevegelser og lette sett før brystpress og beinpress. Bruk kontrollert beinbelastning, særlig før fredagsintervaller.\n\nOppbygging: fullt program og normalt 2–3 repetisjoner i reserve.",
+      "week": 4,
+      "program": "B",
+      "time": "14:00–15:00"
+    },
+    {
+      "id": "w04-lor-long",
+      "date": "2026-12-19",
+      "type": "long",
+      "title": "Rolig langtur",
+      "description": "Personlig mål: 9 km. Bokas ramme: 5–10 km. Målet kan justeres ved behov.",
+      "week": 4,
+      "targetKm": 9
+    },
+    {
+      "id": "w05-man-strength",
+      "date": "2026-12-21",
+      "type": "strength",
+      "title": "Styrke A – bryst og overkropp",
+      "description": "Maks 60 min. Oppvarming 5–7 min: 3 min lett roing eller sykling, rolige skulderbevegelser og 1–2 lette sett før benkpress. Bicepscurl og tricepsnedpress kan kjøres som supersett. Bruk smertefri bevegelsesbane.\n\nOppbygging: fullt program og normalt 2–3 repetisjoner i reserve.",
+      "week": 5,
+      "program": "A",
+      "time": "14:00–15:00"
+    },
+    {
+      "id": "w05-man-interval",
+      "date": "2026-12-21",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "Oppvarming (ca. 10 min): 0–2 min rolig jogging, 2–6 min moderat løping, 6–9 min dynamisk bevegelighet, siste minutt stigningsløp på 30–50 m med økende fart. På mølle: kontrollert gradvis fartsøkning.\nDynamisk: 5 høye kneløft og 5 hælspark per bein, 10 armsving og 5 sidelengs kryssløp til hver side.\n\n3 × 5 min 10–20–30. 3 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.\n\nBokprogrammet introduserer maksimal sprint på de raske dragene. Tilpass intensiteten til egen toleranse, særlig ved leggplager.",
+      "week": 5,
+      "floorball": false,
+      "time": "Senere på dagen"
+    },
+    {
+      "id": "w05-ons-interval",
+      "date": "2026-12-23",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "Oppvarming (ca. 10 min): 0–2 min rolig jogging, 2–6 min moderat løping, 6–9 min dynamisk bevegelighet, siste minutt stigningsløp på 30–50 m med økende fart. På mølle: kontrollert gradvis fartsøkning.\nDynamisk: 5 høye kneløft og 5 hælspark per bein, 10 armsving og 5 sidelengs kryssløp til hver side.\n\n3 × 5 min 10–20–30. 3 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.\n\nBokprogrammet introduserer maksimal sprint på de raske dragene. Tilpass intensiteten til egen toleranse, særlig ved leggplager.",
+      "week": 5,
+      "floorball": true
+    },
+    {
+      "id": "w05-tor-strength",
+      "date": "2026-12-24",
+      "type": "strength",
+      "title": "Styrke B – helkropp med brystfokus",
+      "description": "Maks 60 min. Oppvarming 5–7 min: lett sykling eller roing, rolige skulder- og hoftebevegelser og lette sett før brystpress og beinpress. Bruk kontrollert beinbelastning, særlig før fredagsintervaller.\n\nOppbygging: fullt program og normalt 2–3 repetisjoner i reserve.",
+      "week": 5,
+      "program": "B",
+      "time": "14:00–15:00"
+    },
+    {
+      "id": "w05-lor-long",
+      "date": "2026-12-26",
+      "type": "long",
+      "title": "Rolig langtur",
+      "description": "Personlig mål: 10 km. Bokas ramme: 10–20 km. Målet kan justeres ved behov.",
+      "week": 5,
+      "targetKm": 10
+    },
+    {
+      "id": "w06-man-strength",
+      "date": "2026-12-28",
+      "type": "strength",
+      "title": "Styrke A – bryst og overkropp",
+      "description": "Maks 60 min. Oppvarming 5–7 min: 3 min lett roing eller sykling, rolige skulderbevegelser og 1–2 lette sett før benkpress. Bicepscurl og tricepsnedpress kan kjøres som supersett. Bruk smertefri bevegelsesbane.\n\nProgresjon: øk belastningen når øvre repetisjonsgrense nås i alle sett med god teknikk. Reduser beinbelastningen ved behov.",
+      "week": 6,
+      "program": "A",
+      "time": "14:00–15:00"
+    },
+    {
+      "id": "w06-man-interval",
+      "date": "2026-12-28",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "Oppvarming (ca. 10 min): 0–2 min rolig jogging, 2–6 min moderat løping, 6–9 min dynamisk bevegelighet, siste minutt stigningsløp på 30–50 m med økende fart. På mølle: kontrollert gradvis fartsøkning.\nDynamisk: 5 høye kneløft og 5 hælspark per bein, 10 armsving og 5 sidelengs kryssløp til hver side.\n\n3 × 5 min 10–20–30. 2 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.\n\nBokprogrammet introduserer maksimal sprint på de raske dragene. Tilpass intensiteten til egen toleranse, særlig ved leggplager.",
+      "week": 6,
+      "floorball": false,
+      "time": "Senere på dagen"
+    },
+    {
+      "id": "w06-ons-interval",
+      "date": "2026-12-30",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "Oppvarming (ca. 10 min): 0–2 min rolig jogging, 2–6 min moderat løping, 6–9 min dynamisk bevegelighet, siste minutt stigningsløp på 30–50 m med økende fart. På mølle: kontrollert gradvis fartsøkning.\nDynamisk: 5 høye kneløft og 5 hælspark per bein, 10 armsving og 5 sidelengs kryssløp til hver side.\n\n3 × 5 min 10–20–30. 2 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.\n\nBokprogrammet introduserer maksimal sprint på de raske dragene. Tilpass intensiteten til egen toleranse, særlig ved leggplager.",
+      "week": 6,
+      "floorball": true
+    },
+    {
+      "id": "w06-tor-strength",
+      "date": "2026-12-31",
+      "type": "strength",
+      "title": "Styrke B – helkropp med brystfokus",
+      "description": "Maks 60 min. Oppvarming 5–7 min: lett sykling eller roing, rolige skulder- og hoftebevegelser og lette sett før brystpress og beinpress. Bruk kontrollert beinbelastning, særlig før fredagsintervaller.\n\nProgresjon: øk belastningen når øvre repetisjonsgrense nås i alle sett med god teknikk. Reduser beinbelastningen ved behov.",
+      "week": 6,
+      "program": "B",
+      "time": "14:00–15:00"
+    },
+    {
+      "id": "w06-fre-interval",
+      "date": "2027-01-01",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "Oppvarming (ca. 10 min): 0–2 min rolig jogging, 2–6 min moderat løping, 6–9 min dynamisk bevegelighet, siste minutt stigningsløp på 30–50 m med økende fart. På mølle: kontrollert gradvis fartsøkning.\nDynamisk: 5 høye kneløft og 5 hælspark per bein, 10 armsving og 5 sidelengs kryssløp til hver side.\n\n3 × 5 min 10–20–30. 2 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.\n\nBokprogrammet introduserer maksimal sprint på de raske dragene. Tilpass intensiteten til egen toleranse, særlig ved leggplager.",
+      "week": 6,
+      "floorball": false
+    },
+    {
+      "id": "w06-lor-long",
+      "date": "2027-01-02",
+      "type": "long",
+      "title": "Rolig langtur",
+      "description": "Personlig mål: 7 km. Bokas ramme: 5–10 km. Målet kan justeres ved behov.",
+      "week": 6,
+      "targetKm": 7
+    },
+    {
+      "id": "w07-man-strength",
+      "date": "2027-01-04",
+      "type": "strength",
+      "title": "Styrke A – bryst og overkropp",
+      "description": "Maks 60 min. Oppvarming 5–7 min: 3 min lett roing eller sykling, rolige skulderbevegelser og 1–2 lette sett før benkpress. Bicepscurl og tricepsnedpress kan kjøres som supersett. Bruk smertefri bevegelsesbane.\n\nProgresjon: øk belastningen når øvre repetisjonsgrense nås i alle sett med god teknikk. Reduser beinbelastningen ved behov.",
+      "week": 7,
+      "program": "A",
+      "time": "14:00–15:00"
+    },
+    {
+      "id": "w07-man-interval",
+      "date": "2027-01-04",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "Oppvarming (ca. 10 min): 0–2 min rolig jogging, 2–6 min moderat løping, 6–9 min dynamisk bevegelighet, siste minutt stigningsløp på 30–50 m med økende fart. På mølle: kontrollert gradvis fartsøkning.\nDynamisk: 5 høye kneløft og 5 hælspark per bein, 10 armsving og 5 sidelengs kryssløp til hver side.\n\n4 × 5 min 10–20–30. 3 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.\n\nBokprogrammet introduserer maksimal sprint på de raske dragene. Tilpass intensiteten til egen toleranse, særlig ved leggplager.",
+      "week": 7,
+      "floorball": false,
+      "time": "Senere på dagen"
+    },
+    {
+      "id": "w07-ons-interval",
+      "date": "2027-01-06",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "Oppvarming (ca. 10 min): 0–2 min rolig jogging, 2–6 min moderat løping, 6–9 min dynamisk bevegelighet, siste minutt stigningsløp på 30–50 m med økende fart. På mølle: kontrollert gradvis fartsøkning.\nDynamisk: 5 høye kneløft og 5 hælspark per bein, 10 armsving og 5 sidelengs kryssløp til hver side.\n\n4 × 5 min 10–20–30. 3 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.\n\nBokprogrammet introduserer maksimal sprint på de raske dragene. Tilpass intensiteten til egen toleranse, særlig ved leggplager.",
+      "week": 7,
+      "floorball": true
+    },
+    {
+      "id": "w07-tor-strength",
+      "date": "2027-01-07",
+      "type": "strength",
+      "title": "Styrke B – helkropp med brystfokus",
+      "description": "Maks 60 min. Oppvarming 5–7 min: lett sykling eller roing, rolige skulder- og hoftebevegelser og lette sett før brystpress og beinpress. Bruk kontrollert beinbelastning, særlig før fredagsintervaller.\n\nProgresjon: øk belastningen når øvre repetisjonsgrense nås i alle sett med god teknikk. Reduser beinbelastningen ved behov.",
+      "week": 7,
+      "program": "B",
+      "time": "14:00–15:00"
+    },
+    {
+      "id": "w07-fre-interval",
+      "date": "2027-01-08",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "Oppvarming (ca. 10 min): 0–2 min rolig jogging, 2–6 min moderat løping, 6–9 min dynamisk bevegelighet, siste minutt stigningsløp på 30–50 m med økende fart. På mølle: kontrollert gradvis fartsøkning.\nDynamisk: 5 høye kneløft og 5 hælspark per bein, 10 armsving og 5 sidelengs kryssløp til hver side.\n\n4 × 5 min 10–20–30. 3 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.\n\nBokprogrammet introduserer maksimal sprint på de raske dragene. Tilpass intensiteten til egen toleranse, særlig ved leggplager.",
+      "week": 7,
+      "floorball": false
+    },
+    {
+      "id": "w07-lor-long",
+      "date": "2027-01-09",
+      "type": "long",
+      "title": "Rolig langtur",
+      "description": "Personlig mål: 11 km. Bokas ramme: 10–15 km. Målet kan justeres ved behov.",
+      "week": 7,
+      "targetKm": 11
+    },
+    {
+      "id": "w08-man-strength",
+      "date": "2027-01-11",
+      "type": "strength",
+      "title": "Styrke A – bryst og overkropp",
+      "description": "Maks 60 min. Oppvarming 5–7 min: 3 min lett roing eller sykling, rolige skulderbevegelser og 1–2 lette sett før benkpress. Bicepscurl og tricepsnedpress kan kjøres som supersett. Bruk smertefri bevegelsesbane.\n\nProgresjon: øk belastningen når øvre repetisjonsgrense nås i alle sett med god teknikk. Reduser beinbelastningen ved behov.",
+      "week": 8,
+      "program": "A",
+      "time": "14:00–15:00"
+    },
+    {
+      "id": "w08-man-interval",
+      "date": "2027-01-11",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "Oppvarming (ca. 10 min): 0–2 min rolig jogging, 2–6 min moderat løping, 6–9 min dynamisk bevegelighet, siste minutt stigningsløp på 30–50 m med økende fart. På mølle: kontrollert gradvis fartsøkning.\nDynamisk: 5 høye kneløft og 5 hælspark per bein, 10 armsving og 5 sidelengs kryssløp til hver side.\n\n4 × 5 min 10–20–30. 2 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.\n\nBokprogrammet introduserer maksimal sprint på de raske dragene. Tilpass intensiteten til egen toleranse, særlig ved leggplager.",
+      "week": 8,
+      "floorball": false,
+      "time": "Senere på dagen"
+    },
+    {
+      "id": "w08-ons-interval",
+      "date": "2027-01-13",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "Oppvarming (ca. 10 min): 0–2 min rolig jogging, 2–6 min moderat løping, 6–9 min dynamisk bevegelighet, siste minutt stigningsløp på 30–50 m med økende fart. På mølle: kontrollert gradvis fartsøkning.\nDynamisk: 5 høye kneløft og 5 hælspark per bein, 10 armsving og 5 sidelengs kryssløp til hver side.\n\n4 × 5 min 10–20–30. 2 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.\n\nBokprogrammet introduserer maksimal sprint på de raske dragene. Tilpass intensiteten til egen toleranse, særlig ved leggplager.",
+      "week": 8,
+      "floorball": true
+    },
+    {
+      "id": "w08-tor-strength",
+      "date": "2027-01-14",
+      "type": "strength",
+      "title": "Styrke B – helkropp med brystfokus",
+      "description": "Maks 60 min. Oppvarming 5–7 min: lett sykling eller roing, rolige skulder- og hoftebevegelser og lette sett før brystpress og beinpress. Bruk kontrollert beinbelastning, særlig før fredagsintervaller.\n\nProgresjon: øk belastningen når øvre repetisjonsgrense nås i alle sett med god teknikk. Reduser beinbelastningen ved behov.",
+      "week": 8,
+      "program": "B",
+      "time": "14:00–15:00"
+    },
+    {
+      "id": "w08-fre-interval",
+      "date": "2027-01-15",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "Oppvarming (ca. 10 min): 0–2 min rolig jogging, 2–6 min moderat løping, 6–9 min dynamisk bevegelighet, siste minutt stigningsløp på 30–50 m med økende fart. På mølle: kontrollert gradvis fartsøkning.\nDynamisk: 5 høye kneløft og 5 hælspark per bein, 10 armsving og 5 sidelengs kryssløp til hver side.\n\n4 × 5 min 10–20–30. 2 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.\n\nBokprogrammet introduserer maksimal sprint på de raske dragene. Tilpass intensiteten til egen toleranse, særlig ved leggplager.",
+      "week": 8,
+      "floorball": false
+    },
+    {
+      "id": "w08-lor-long",
+      "date": "2027-01-16",
+      "type": "long",
+      "title": "Rolig langtur",
+      "description": "Personlig mål: 8 km. Bokas ramme: 5–10 km. Målet kan justeres ved behov.",
+      "week": 8,
+      "targetKm": 8
+    },
+    {
+      "id": "w09-man-strength",
+      "date": "2027-01-18",
+      "type": "strength",
+      "title": "Styrke A – bryst og overkropp",
+      "description": "Maks 60 min. Oppvarming 5–7 min: 3 min lett roing eller sykling, rolige skulderbevegelser og 1–2 lette sett før benkpress. Bicepscurl og tricepsnedpress kan kjøres som supersett. Bruk smertefri bevegelsesbane.\n\nProgresjon: øk belastningen når øvre repetisjonsgrense nås i alle sett med god teknikk. Reduser beinbelastningen ved behov.",
+      "week": 9,
+      "program": "A",
+      "time": "14:00–15:00"
+    },
+    {
+      "id": "w09-man-interval",
+      "date": "2027-01-18",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "Oppvarming (ca. 10 min): 0–2 min rolig jogging, 2–6 min moderat løping, 6–9 min dynamisk bevegelighet, siste minutt stigningsløp på 30–50 m med økende fart. På mølle: kontrollert gradvis fartsøkning.\nDynamisk: 5 høye kneløft og 5 hælspark per bein, 10 armsving og 5 sidelengs kryssløp til hver side.\n\n4 × 5 min 10–20–30. 2 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.\n\nBokprogrammet introduserer maksimal sprint på de raske dragene. Tilpass intensiteten til egen toleranse, særlig ved leggplager.",
+      "week": 9,
+      "floorball": false,
+      "time": "Senere på dagen"
+    },
+    {
+      "id": "w09-ons-interval",
+      "date": "2027-01-20",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "Oppvarming (ca. 10 min): 0–2 min rolig jogging, 2–6 min moderat løping, 6–9 min dynamisk bevegelighet, siste minutt stigningsløp på 30–50 m med økende fart. På mølle: kontrollert gradvis fartsøkning.\nDynamisk: 5 høye kneløft og 5 hælspark per bein, 10 armsving og 5 sidelengs kryssløp til hver side.\n\n4 × 5 min 10–20–30. 2 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.\n\nBokprogrammet introduserer maksimal sprint på de raske dragene. Tilpass intensiteten til egen toleranse, særlig ved leggplager.",
+      "week": 9,
+      "floorball": true
+    },
+    {
+      "id": "w09-tor-strength",
+      "date": "2027-01-21",
+      "type": "strength",
+      "title": "Styrke B – helkropp med brystfokus",
+      "description": "Maks 60 min. Oppvarming 5–7 min: lett sykling eller roing, rolige skulder- og hoftebevegelser og lette sett før brystpress og beinpress. Bruk kontrollert beinbelastning, særlig før fredagsintervaller.\n\nProgresjon: øk belastningen når øvre repetisjonsgrense nås i alle sett med god teknikk. Reduser beinbelastningen ved behov.",
+      "week": 9,
+      "program": "B",
+      "time": "14:00–15:00"
+    },
+    {
+      "id": "w09-fre-interval",
+      "date": "2027-01-22",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "Oppvarming (ca. 10 min): 0–2 min rolig jogging, 2–6 min moderat løping, 6–9 min dynamisk bevegelighet, siste minutt stigningsløp på 30–50 m med økende fart. På mølle: kontrollert gradvis fartsøkning.\nDynamisk: 5 høye kneløft og 5 hælspark per bein, 10 armsving og 5 sidelengs kryssløp til hver side.\n\n4 × 5 min 10–20–30. 2 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.\n\nBokprogrammet introduserer maksimal sprint på de raske dragene. Tilpass intensiteten til egen toleranse, særlig ved leggplager.",
+      "week": 9,
+      "floorball": false
+    },
+    {
+      "id": "w09-lor-long",
+      "date": "2027-01-23",
+      "type": "long",
+      "title": "Rolig langtur",
+      "description": "Personlig mål: 13 km. Bokas ramme: 10–20 km. Målet kan justeres ved behov.",
+      "week": 9,
+      "targetKm": 13
+    },
+    {
+      "id": "w10-man-strength",
+      "date": "2027-01-25",
+      "type": "strength",
+      "title": "Styrke A – bryst og overkropp",
+      "description": "Maks 60 min. Oppvarming 5–7 min: 3 min lett roing eller sykling, rolige skulderbevegelser og 1–2 lette sett før benkpress. Bicepscurl og tricepsnedpress kan kjøres som supersett. Bruk smertefri bevegelsesbane.\n\nNedtrapping: omtrent halvert antall arbeidssett. Unngå utmattelse og tung beintrening før testløpet.",
+      "week": 10,
+      "program": "A",
+      "time": "14:00–15:00"
+    },
+    {
+      "id": "w10-man-interval",
+      "date": "2027-01-25",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "Oppvarming (ca. 10 min): 0–2 min rolig jogging, 2–6 min moderat løping, 6–9 min dynamisk bevegelighet, siste minutt stigningsløp på 30–50 m med økende fart. På mølle: kontrollert gradvis fartsøkning.\nDynamisk: 5 høye kneløft og 5 hælspark per bein, 10 armsving og 5 sidelengs kryssløp til hver side.\n\n4 × 5 min 10–20–30. 2 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.\n\nBokprogrammet introduserer maksimal sprint på de raske dragene. Tilpass intensiteten til egen toleranse, særlig ved leggplager.",
+      "week": 10,
+      "floorball": false,
+      "time": "Senere på dagen"
+    },
+    {
+      "id": "w10-ons-interval",
+      "date": "2027-01-27",
+      "type": "interval",
+      "title": "10–20–30-intervaller",
+      "description": "Oppvarming (ca. 10 min): 0–2 min rolig jogging, 2–6 min moderat løping, 6–9 min dynamisk bevegelighet, siste minutt stigningsløp på 30–50 m med økende fart. På mølle: kontrollert gradvis fartsøkning.\nDynamisk: 5 høye kneløft og 5 hælspark per bein, 10 armsving og 5 sidelengs kryssløp til hver side.\n\n3 × 5 min 10–20–30. 2 min pause mellom blokkene.\n\nHver femminuttersblokk består av 5 runder: 30 sek rolig jogging, 20 sek moderat løping, 10 sek rask løping.\n\nBokprogrammet introduserer maksimal sprint på de raske dragene. Tilpass intensiteten til egen toleranse, særlig ved leggplager.",
+      "week": 10,
+      "floorball": true
+    },
+    {
+      "id": "w10-tor-strength",
+      "date": "2027-01-28",
+      "type": "strength",
+      "title": "Styrke B – helkropp med brystfokus",
+      "description": "Maks 60 min. Oppvarming 5–7 min: lett sykling eller roing, rolige skulder- og hoftebevegelser og lette sett før brystpress og beinpress. Bruk kontrollert beinbelastning, særlig før fredagsintervaller.\n\nNedtrapping: omtrent halvert antall arbeidssett. Unngå utmattelse og tung beintrening før testløpet.",
+      "week": 10,
+      "program": "B",
+      "time": "14:00–15:00"
+    },
+    {
+      "id": "w10-son-run",
+      "date": "2027-01-31",
+      "type": "run",
+      "title": "Kontrollert 10 km testløp",
+      "description": "Løp 10 km kontrollert. Registrer distanse, tid og opplevd anstrengelse. Gjennomsnittshastigheten regnes ut fra tid og distanse.",
+      "week": 10,
+      "targetKm": 10
+    }
+  ],
+  "goal": {
+    "distance": 21,
+    "minutes": 120,
+    "speed": 10.55
+  },
+  "baseline": {
+    "date": "2026-11-21",
+    "distance": 6.01,
+    "minutes": 45.38333333333333,
+    "effort": 4
+  },
+  "strengthVolume": {
+    "intro": {
+      "throughWeek": 2,
+      "setsPerExercise": 2
+    },
+    "taper": {
+      "week": 10,
+      "setsByExercise": {
+        "a1": 2,
+        "a2": 1,
+        "a3": 2,
+        "a4": 1,
+        "a5": 1,
+        "a6": 1,
+        "a7": 1,
+        "b1": 2,
+        "b2": 1,
+        "b3": 2,
+        "b4": 1,
+        "b5": 1,
+        "b6": 1
+      }
+    }
+  }
+}
